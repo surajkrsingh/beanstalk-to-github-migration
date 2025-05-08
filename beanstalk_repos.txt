@@ -1,2 +1,2 @@
-git@buddyboss.git.beanstalkapp.com:/buddyboss/client-access4fans-content.git
-git@buddyboss.git.beanstalkapp.com:/buddyboss/client-spreadmind-content.git
+git@buddyboss.git.beanstalkapp.com:/org/repo-1.git
+git@buddyboss.git.beanstalkapp.com:/org/repo-2.git

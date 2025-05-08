@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # CONFIGURE THIS
-GITHUB_ORG="surajkrsingh"
+GITHUB_ORG="abc"
 VISIBILITY="private"  # or "public"
 REPO_LIST="beanstalk_repos.txt"
 while IFS= read -r repo_url; do
